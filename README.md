@@ -4,7 +4,7 @@ Library for running frequent tasks without blocking the loop and worrying about 
 
 ## Installation
 
-1. Download latest zip file from [releases](/releases/latest) page.
+1. Download latest zip file from [releases](https://github.com/JMax45/arduino-interval/releases) page.
 2. Install the zip file via Sketch->#include->Add library from .ZIP file.
 
 ## Usage
